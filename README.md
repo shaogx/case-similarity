@@ -1,6 +1,6 @@
-BiLSTM_CRF实体识别
-fasttext预测物品分类
-gensim案件相似度计算
+BiLSTM_CRF实体识别。
+fasttext预测物品分类。
+gensim案件相似度计算。
 
 
 # 一、环境
